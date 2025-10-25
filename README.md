@@ -80,6 +80,7 @@ cd DeliGo
 MAPS_API_KEY=your_google_maps_api_key
 API_BASE_URL=your_backend_api_url
 ```
+**⚠️ Lưu ý bảo mật**: Không bao giờ commit API keys thật vào repository. File `local.properties` đã được thêm vào `.gitignore` để tránh rò rỉ thông tin nhạy cảm.
 
 ### Bước 5: Build và Run
 - Sync project với Gradle
